@@ -39,15 +39,16 @@
 
 ## Screens
 
+<p align="center"><a href="https://galasulin.github.io/apostherapy-research-landing/"><img src="assets/drag-3d.gif" width="560" alt="Dragging the 3D product card: it turns with the pointer and settles back"></a><br><sub><b>3D product card</b> · dragged left and right, then released</sub></p>
+
 <table>
   <tr>
     <td width="33%"><a href="assets/desktop-hero.png"><img src="assets/desktop-hero.png" width="100%" alt="Hero with the 3D product card"></a><br><sub><b>Hero</b> · 3D product card with floating chips</sub></td>
-    <td width="33%"><a href="assets/desktop-stats.png"><img src="assets/desktop-stats.png" width="100%" alt="Research numbers"></a><br><sub><b>Research numbers</b> · counters animate into view</sub></td>
+    <td width="33%"><a href="assets/desktop-stats.png"><img src="assets/desktop-stats.png" width="100%" alt="Research numbers"></a><br><sub><b>Research numbers</b> · the counters band, right under the header</sub></td>
     <td width="33%"><a href="assets/desktop-evidence.png"><img src="assets/desktop-evidence.png" width="100%" alt="Evidence section"></a><br><sub><b>Evidence</b> · what was measured, and what came out</sub></td>
   </tr>
   <tr>
-    <td width="33%"><a href="assets/desktop-form.png"><img src="assets/desktop-form.png" width="100%" alt="Lead form"></a><br><sub><b>Lead form</b> · region picker, consent, honeypot</sub></td>
-    <td width="33%"><a href="assets/desktop-form-demo.png"><img src="assets/desktop-form-demo.png" width="100%" alt="Demo form notice"></a><br><sub><b>Form (demo)</b> · demo notice and phone toast</sub></td>
+    <td width="33%"><a href="assets/desktop-form-demo.png"><img src="assets/desktop-form-demo.png" width="100%" alt="Demo form notice"></a><br><sub><b>Lead form (demo)</b> · region picker, consent, honeypot; the demo notice and phone toast</sub></td>
     <td width="33%" align="center"><a href="assets/mobile.png"><img src="assets/mobile.png" width="220" alt="Mobile"></a><br><sub><b>Mobile</b> · copy first, sticky bottom bar</sub></td>
   </tr>
 </table>

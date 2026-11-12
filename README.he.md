@@ -41,15 +41,16 @@
 
 ## מסכים
 
+<p align="center"><a href="https://galasulin.github.io/apostherapy-research-landing/"><img src="assets/drag-3d.gif" width="560" alt="גרירת כרטיס התלת-ממד: הוא מסתובב עם הסמן וחוזר למקום"></a><br><sub><b>כרטיס תלת-ממד</b> · גרירה ימינה ושמאלה ושחרור</sub></p>
+
 <table>
   <tr>
     <td width="33%"><a href="assets/desktop-hero.png"><img src="assets/desktop-hero.png" width="100%" alt="ראש הדף עם כרטיס התלת-ממד"></a><br><sub><b>ראש הדף</b> · כרטיס מוצר בתלת-ממד עם שבבים מרחפים</sub></td>
-    <td width="33%"><a href="assets/desktop-stats.png"><img src="assets/desktop-stats.png" width="100%" alt="נתוני המחקר"></a><br><sub><b>נתוני המחקר</b> · המונים נספרים כשהם נכנסים למסך</sub></td>
+    <td width="33%"><a href="assets/desktop-stats.png"><img src="assets/desktop-stats.png" width="100%" alt="נתוני המחקר"></a><br><sub><b>נתוני המחקר</b> · פס המונים, מיד מתחת לכותרת</sub></td>
     <td width="33%"><a href="assets/desktop-evidence.png"><img src="assets/desktop-evidence.png" width="100%" alt="ממצאי המחקר"></a><br><sub><b>ממצאים</b> · מה נמדד, ומה יצא</sub></td>
   </tr>
   <tr>
-    <td width="33%"><a href="assets/desktop-form.png"><img src="assets/desktop-form.png" width="100%" alt="טופס הלידים"></a><br><sub><b>טופס לידים</b> · בחירת אזור, אישור, שדה מלכודת</sub></td>
-    <td width="33%"><a href="assets/desktop-form-demo.png"><img src="assets/desktop-form-demo.png" width="100%" alt="הודעת ההדגמה של הטופס"></a><br><sub><b>טופס (הדגמה)</b> · הודעת הדגמה והודעה קופצת לטלפון</sub></td>
+    <td width="33%"><a href="assets/desktop-form-demo.png"><img src="assets/desktop-form-demo.png" width="100%" alt="הודעת ההדגמה של הטופס"></a><br><sub><b>טופס לידים (הדגמה)</b> · בחירת אזור, אישור, שדה מלכודת; הודעת ההדגמה וההודעה על הטלפון</sub></td>
     <td width="33%" align="center"><a href="assets/mobile.png"><img src="assets/mobile.png" width="220" alt="מובייל"></a><br><sub><b>מובייל</b> · הטקסט קודם, פס פעולות דביק בתחתית</sub></td>
   </tr>
 </table>
